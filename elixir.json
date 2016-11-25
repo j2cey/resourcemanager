@@ -1,0 +1,16 @@
+{
+    "js": {
+        "outputFolder": "public/js"
+    },
+    "css": {
+        "outputFolder": "public/css",
+        "sass": {
+            "folder": "../../angular/"
+        },
+        "lteSkin": "skin-green.css"
+    },
+    "fonts": {
+        "outputFolder": "public/fonts"
+    },
+    "buildPath": "public/build"
+}
